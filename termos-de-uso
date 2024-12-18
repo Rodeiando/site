@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Termos de Uso - Rodeiando</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        p, ul, li {
+            color: #555;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Termos de Uso do Aplicativo Rodeiando</h1>
+    <p>Bem-vindo ao aplicativo Rodeiando. Estes Termos de Uso descrevem as regras e condições para o uso do nosso aplicativo. Ao utilizar o Rodeiando, você concorda com estes Termos de Uso. Caso não concorde, por favor, não utilize o aplicativo.</p>
+
+    <hr>
+
+    <h2>1. Uso do Aplicativo</h2>
+    <ul>
+        <li>O Rodeiando é destinado exclusivamente para uso pessoal e não comercial.</li>
+        <li>Você deve usar o aplicativo em conformidade com todas as leis e regulações aplicáveis.</li>
+        <li>Você é responsável por todas as informações fornecidas e atividades realizadas no aplicativo.</li>
+        <li>É estritamente proibido publicar ou compartilhar conteúdos inapropriados, ofensivos, ou fora do contexto do objetivo do aplicativo, incluindo, mas não se limitando a, imagens, mensagens ou links inadequados.</li>
+    </ul>
+
+    <hr>
+
+    <h2>2. Cadastro e Conta do Usuário</h2>
+    <ul>
+        <li>Para utilizar certos recursos, você pode precisar criar uma conta, fornecendo informações verídicas e atualizadas.</li>
+        <li>Você é responsável por manter a confidencialidade de suas credenciais de acesso.</li>
+        <li>Notifique-nos imediatamente em caso de uso não autorizado de sua conta.</li>
+        <li>Contas criadas com informações falsas, enganosas ou fraudulentas serão suspensas ou encerradas sem aviso prévio.</li>
+    </ul>
+
+    <hr>
+
+    <h2>3. Propriedade Intelectual</h2>
+    <ul>
+        <li>Todo o conteúdo do Rodeiando, incluindo textos, imagens, gráficos, logotipos e códigos-fonte, é de propriedade exclusiva da Rodeiando ou de seus licenciadores e está protegido por leis de direitos autorais.</li>
+        <li>Você não pode reproduzir, distribuir, modificar ou criar obras derivadas sem autorização prévia.</li>
+        <li>É proibido o uso do aplicativo para upload, download, distribuição ou compartilhamento de materiais que infrinjam direitos autorais ou marcas registradas.</li>
+    </ul>
+
+    <hr>
+
+    <h2>4. Restrições de Uso</h2>
+    <ul>
+        <li>Você concorda em não usar o aplicativo para fins ilegais ou não autorizados.</li>
+        <li>Publicar ou compartilhar conteúdo impróprio, ofensivo, obsceno, ou que promova discriminação é proibido.</li>
+        <li>Não é permitido enviar mensagens ou imagens fora do contexto do aplicativo.</li>
+        <li>Você não deve interferir no funcionamento do aplicativo.</li>
+        <li>É proibido realizar engenharia reversa ou tentar acessar o código-fonte do aplicativo.</li>
+    </ul>
+
+    <hr>
+
+    <h2>5. Limitação de Responsabilidade</h2>
+    <ul>
+        <li>O Rodeiando é fornecido "no estado em que se encontra" e não garantimos que estará livre de erros ou interrupções.</li>
+        <li>Na medida permitida por lei, não nos responsabilizamos por danos diretos, indiretos, incidentais ou consequentes resultantes do uso ou incapacidade de usar o aplicativo.</li>
+        <li>Você é o único responsável por todo conteúdo que postar ou compartilhar no aplicativo.</li>
+    </ul>
+
+    <hr>
+
+    <h2>6. Encerramento</h2>
+    <ul>
+        <li>Reservamo-nos o direito de suspender ou encerrar seu acesso ao Rodeiando a qualquer momento, sem aviso prévio, em caso de violação destes Termos de Uso ou de conduta prejudicial.</li>
+        <li>Em caso de encerramento, quaisquer dados ou conteúdos associados à sua conta poderão ser removidos permanentemente.</li>
+    </ul>
+
+    <hr>
+
+    <h2>7. Alterações nos Termos de Uso</h2>
+    <ul>
+        <li>Podemos atualizar estes Termos de Uso periodicamente. Notificaremos você sobre alterações significativas por meio do aplicativo ou outros meios apropriados.</li>
+        <li>Ao continuar utilizando o aplicativo após as alterações, você concorda com os Termos atualizados.</li>
+    </ul>
+
+    <hr>
+
+    <h2>8. Contato</h2>
+    <p>Se você tiver dúvidas ou preocupações sobre estes Termos de Uso, entre em contato conosco:</p>
+    <p><strong>E-mail:</strong> <a href="mailto:suporte@rodeiando.com">suporte@rodeiando.com</a></p>
+    <p><strong>Endereço:</strong> Cambará do Sul, Rio Grande do Sul, Brasil.</p>
+
+    <hr>
+
+    <p><strong>Data de vigência:</strong> 18 de dezembro de 2024</p>
+</body>
+</html>
+
